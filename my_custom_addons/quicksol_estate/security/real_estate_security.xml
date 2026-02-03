@@ -1,5 +1,0 @@
-<odoo>
-    <record id="group_real_estate_user" model="res.groups">
-        <field name="name">Real Estate User</field>
-    </record>
-</odoo>
